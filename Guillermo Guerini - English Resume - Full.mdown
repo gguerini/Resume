@@ -30,7 +30,7 @@ Software Developer with 10+ years of experience delivering innovative and qualit
 - Introduced and evangelized new technologies to the company such as Ruby on Rails, ASP.NET MVC and jQuery
 - Applied successfully agile metrologies in a non-agile-friendly environment
 
-**Technologies Used:** SharePoint, ASP.NET, C# e .NET 3.5, jQuery, RubyOnRails e SQL Server.
+*Technologies Used:* SharePoint, ASP.NET, C# e .NET 3.5, jQuery, RubyOnRails e SQL Server.
 
 ###### **KokoonMe - October 2009 - Present - London, England**  
 *Co-Founder  - Software Engineer*
@@ -38,7 +38,7 @@ Software Developer with 10+ years of experience delivering innovative and qualit
 - Co-founded this London based health startup.
 - Responsible for delivering all technological solutions, including analysis, front and back-end development
 - Assisted in the creation of the brand, designing the web site UI, logo and other marketing solutions.
-- Added social features integrating it with Facebook and Twitter
+- Integrated the website with Facebook and Twitter 
 
 *Technologies Used:* Ruby on Rails, MySQL, HTML5, CSS3 (current version in development) - ASP.NET MVC, C#, jQuery, SQL Server (first version)
 
@@ -69,8 +69,8 @@ Software Developer with 10+ years of experience delivering innovative and qualit
 ###### **Telefónica Brazil - July 2006 - November 2006 - São Paulo, Brazil**  
 *Analyst Developer*
 
-- Became one of the Lead Developers of a sales system migration in the middle of a delayed project. Helped put it back on track and delivered it with quality that was higher then the client expectations. 
-- Developed and implemented many functionalities for the migrated system to support the new client's requirements.
+- Became one of the Lead Developers of a sales system migration in the middle of a delayed project. Helped put it back on track and delivered it with quality that was higher than the client expectations. 
+- Developed and implemented many functionalities for the migrated system to support the new requirements.
 
 *Technologies Used:* ASP.NET, C#, JavaScript, Ajax and SQL Server.
 
@@ -86,7 +86,7 @@ Software Developer with 10+ years of experience delivering innovative and qualit
 ###### **Ford Credit Brazil - December 2003 - June 2005 - São Bernardo do Campo, Brazil**  
 *Analyst Developer*
 
--Collaborated in the development of a web application to manage all the wholesale operations providing reports and analytic data to the users. This application was used in Brazil, Latin America and the United States.
+- Collaborated in the development of a web application to manage all the wholesale operations providing reports and analytic data to the users. This application was used in Brazil, Latin America and the United States.
 
 *Technologies Used:* ASP.NET, C#, XML, Java, Struts, JSP, EJB, Oracle e DB2.
 
